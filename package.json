@@ -1,0 +1,19 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "## Problem Description We want to be able to recommend factories to brands. A simple way to do that is to identify how often two factories are viewed by the same brand. Your input is the brand view logs, which are represented by comma-separated sequences of factory names. You should print each pair of factories (co-occurrences) which have been visited by the same brand in at least N brand view log rows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonylnagale/code-challenge.git"
+  },
+  "author": "Sonyl Nagale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonylnagale/code-challenge/issues"
+  },
+  "homepage": "https://github.com/sonylnagale/code-challenge#readme"
+}
