@@ -4,7 +4,8 @@
   "description": "## Problem Description We want to be able to recommend factories to brands. A simple way to do that is to identify how often two factories are viewed by the same brand. Your input is the brand view logs, which are represented by comma-separated sequences of factory names. You should print each pair of factories (co-occurrences) which have been visited by the same brand in at least N brand view log rows.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
